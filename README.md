@@ -12,7 +12,7 @@ This project uses the **Pima Indians Diabetes Dataset** to build a classificatio
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Perform data preprocessing
 - Explore and visualize the dataset
@@ -22,7 +22,7 @@ This project uses the **Pima Indians Diabetes Dataset** to build a classificatio
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 **Dataset:** Pima Indians Diabetes Database
 
@@ -44,7 +44,7 @@ This project uses the **Pima Indians Diabetes Dataset** to build a classificatio
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -56,7 +56,7 @@ This project uses the **Pima Indians Diabetes Dataset** to build a classificatio
 
 ---
 
-## 📊 Machine Learning Workflow
+##  Machine Learning Workflow
 
 1. Import Libraries
 2. Load Dataset
@@ -71,7 +71,7 @@ This project uses the **Pima Indians Diabetes Dataset** to build a classificatio
 
 ---
 
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 
 Algorithm Used:
 
@@ -85,7 +85,7 @@ Why SVM?
 
 ---
 
-## 📈 Model Evaluation
+##  Model Evaluation
 
 The model is evaluated using:
 
@@ -97,7 +97,7 @@ These metrics help determine the effectiveness of the classifier on unseen data.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 Clone the repository
 
@@ -125,7 +125,7 @@ jupyter notebook
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 diabetes-prediction-using-ML/
@@ -149,14 +149,14 @@ diabetes-prediction-using-ML/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Bilal Basheer**
 
-B.Sc Physics, Computer Science & Renewable Energy
+B.Sc Physics, Computer Science & Renewable Energy certification in Artificial Intelligence, Machine Learning and Cybersecurity.
 
 Artificial Intelligence & Machine Learning Enthusiast
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star!
+##  If you found this project useful, consider giving it a star!
